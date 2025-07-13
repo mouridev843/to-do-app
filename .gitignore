@@ -1,0 +1,10 @@
+# ignorer node_modules
+node_modules/
+# ignorer les fichiers de build
+dist/
+# ignorer les fichiers de configuration de l'éditeur
+.vscode/
+
+
+# ignorer les fichiers temporaires
+.DS_Store
